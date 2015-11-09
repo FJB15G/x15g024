@@ -1,4 +1,4 @@
-package jp.ac.chibafjb.x15g024.kd101;
+package jp.ac.chibafjb.x15g024.kd104;
 
 public class s {
 
